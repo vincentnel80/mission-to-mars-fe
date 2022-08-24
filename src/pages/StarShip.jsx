@@ -1,9 +1,9 @@
 function StarShip() {
-    return (
-      <>
+  return (
+    <>
       <h1>StarShip</h1>
-      </>
-    )
-  }
-  
-  export default StarShip
+    </>
+  );
+}
+
+export default StarShip;

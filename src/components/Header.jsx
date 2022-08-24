@@ -1,9 +1,8 @@
-import MobileMenu from './MobileMenu'
-import HamburgerMenu from './HamburgerMenu'
-import Navbar from './Navbar'
+import MobileMenu from "./MobileMenu";
+import HamburgerMenu from "./HamburgerMenu";
+import Navbar from "./Navbar";
 
 function Header() {
-
   return (
     <>
       <MobileMenu />
@@ -17,7 +16,7 @@ function Header() {
       </header>
       <HamburgerMenu />
     </>
-  )
+  );
 }
 
-export default Header
+export default Header;

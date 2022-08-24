@@ -1,9 +1,9 @@
 function HumanSpaceflight() {
-    return (
-      <>
+  return (
+    <>
       <h1>Forgot Password</h1>
-      </>
-    )
-  }
-  
-  export default HumanSpaceflight
+    </>
+  );
+}
+
+export default HumanSpaceflight;
