@@ -9,7 +9,7 @@ function Header() {
       <header className="main-header">
         <div className="logo">
           <a href="/">
-            <img src="./logo.png" alt="SpaceX" />
+            <img src="./logo.png" alt="Mission to Mars" />
           </a>
         </div>
         <Navbar />
