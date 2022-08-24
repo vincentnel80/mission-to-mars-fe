@@ -6,16 +6,16 @@ function Header() {
 
   return (
     <>
-        <MobileMenu />
-        <header className="main-header">
-            <div className="logo">
-                <a href="index.html">
-                    <img src="../img/logo.png" alt="SpaceX" />
-                </a>
-            </div>
-            <Navbar />
-        </header>
-        <HamburgerMenu />
+      <MobileMenu />
+      <header className="main-header">
+        <div className="logo">
+          <a href="/">
+            <img src="./logo.png" alt="SpaceX" />
+          </a>
+        </div>
+        <Navbar />
+      </header>
+      <HamburgerMenu />
     </>
   )
 }

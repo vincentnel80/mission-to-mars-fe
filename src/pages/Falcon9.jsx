@@ -1,6 +1,6 @@
 import StatCounter from '../components/StatCounter'
 
-function Offers() {
+function Falcon9() {
 
     return (
       <>
@@ -14,4 +14,4 @@ function Offers() {
     )
   }
   
-  export default Offers
+  export default Falcon9

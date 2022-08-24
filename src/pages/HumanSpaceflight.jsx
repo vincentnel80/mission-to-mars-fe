@@ -1,4 +1,4 @@
-function ForgotPassword() {
+function HumanSpaceflight() {
     return (
       <>
       <h1>Forgot Password</h1>
@@ -6,4 +6,4 @@ function ForgotPassword() {
     )
   }
   
-  export default ForgotPassword
+  export default HumanSpaceflight
