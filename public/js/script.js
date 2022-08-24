@@ -1,8 +1,8 @@
 const btn = document.getElementById('menu-btn');
+console.log(btn,"btnbtnbtn")
 const overlay = document.getElementById('overlay');
 const menu = document.getElementById('mobile-menu');
 const counters = document.querySelectorAll('.counter');
-console.log(counters,"counters")
 let scrollStarted = false;
 
 btn.addEventListener('click', navToggle);
