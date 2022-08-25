@@ -1,0 +1,25 @@
+{
+  "files": {
+    "main.css": "/mission-to-mars-fe/static/css/main.6b7f7fa5.css",
+    "main.js": "/mission-to-mars-fe/static/js/main.5a77775f.js",
+    "static/js/787.4d0bd408.chunk.js": "/mission-to-mars-fe/static/js/787.4d0bd408.chunk.js",
+    "static/media/falcon-heavy.webp": "/mission-to-mars-fe/static/media/falcon-heavy.c1cf29d6314c44c66c74.webp",
+    "static/media/falcon-9.webp": "/mission-to-mars-fe/static/media/falcon-9.0f46fac31c34a50fea6a.webp",
+    "static/media/section-f.webp": "/mission-to-mars-fe/static/media/section-f.11b82402ea5848d8d48d.webp",
+    "static/media/mars-logo.png": "/mission-to-mars-fe/static/media/mars-logo.019dd86426fadefbae8b.png",
+    "static/media/dragon.webp": "/mission-to-mars-fe/static/media/dragon.9d4e4ba4fe07923c4a65.webp",
+    "static/media/section-e.webp": "/mission-to-mars-fe/static/media/section-e.c49b80fcb9a1a7b3a65b.webp",
+    "static/media/section-d.webp": "/mission-to-mars-fe/static/media/section-d.0b5fe792419a9e94ac81.webp",
+    "static/media/section-a.webp": "/mission-to-mars-fe/static/media/section-a.218836ba264d40978c5c.webp",
+    "static/media/section-c.webp": "/mission-to-mars-fe/static/media/section-c.59417dd5a564f5441972.webp",
+    "static/media/section-b.webp": "/mission-to-mars-fe/static/media/section-b.3fd9e46ee6e4371f430d.webp",
+    "index.html": "/mission-to-mars-fe/index.html",
+    "main.6b7f7fa5.css.map": "/mission-to-mars-fe/static/css/main.6b7f7fa5.css.map",
+    "main.5a77775f.js.map": "/mission-to-mars-fe/static/js/main.5a77775f.js.map",
+    "787.4d0bd408.chunk.js.map": "/mission-to-mars-fe/static/js/787.4d0bd408.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.6b7f7fa5.css",
+    "static/js/main.5a77775f.js"
+  ]
+}
