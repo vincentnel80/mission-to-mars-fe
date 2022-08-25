@@ -1,8 +1,12 @@
 function Footer() {
+
+  const current = new Date();
+  const date = `${current.getFullYear()}`;
+
   return (
     <footer>
       <ul>
-        <li>SpaceX © 2022</li>
+        <li>Mission to Mars © {date}</li>
         <li>
           <a href="#">Twitter</a>
         </li>

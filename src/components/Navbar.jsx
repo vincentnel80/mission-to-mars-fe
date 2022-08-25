@@ -11,7 +11,7 @@ function Navbar() {
         <li>
           <a href="dragon">Dragon</a>
         </li>
-        <li>
+        {/* <li>
           <a href="#">Starship</a>
         </li>
         <li>
@@ -25,7 +25,7 @@ function Navbar() {
         </li>
         <li>
           <a href="#">Shop</a>
-        </li>
+        </li>*/}
       </ul>
     </nav>
   );

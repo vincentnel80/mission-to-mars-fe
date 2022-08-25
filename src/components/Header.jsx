@@ -1,20 +1,20 @@
-import MobileMenu from "./MobileMenu";
-import HamburgerMenu from "./HamburgerMenu";
+import logo from '../img/mars-logo.png';
 import Navbar from "./Navbar";
+import Sidebar from "./Sidebar";
 
 function Header() {
   return (
     <>
-      <MobileMenu />
       <header className="main-header">
         <div className="logo">
           <a href="/">
-            <img src="./logo.png" alt="Mission to Mars" />
+            <img src={logo} alt="Mission to Mars" />
           </a>
+          <span>Mission to Mars</span>
         </div>
         <Navbar />
       </header>
-      <HamburgerMenu />
+      <Sidebar outerContainerId={"outer-container"} />
     </>
   );
 }
