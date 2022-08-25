@@ -7,7 +7,7 @@ function Header() {
     <>
       <header className="main-header">
         <div className="logo">
-          <a href="/">
+          <a href="/mission-to-mars-fe">
             <img src={logo} alt="Mission to Mars" />
           </a>
           <span>Mission to Mars</span>

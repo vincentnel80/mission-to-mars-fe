@@ -17,15 +17,16 @@ function App() {
       <Router>
         <Header />
         <Routes>
-          <Route exact path="/" element={<Explore />} />
-          <Route exact path="/falcon9" element={<Falcon9 />} />
-          <Route exact path="/falcon-heavy" element={<FalconHeavy />} />
-          <Route path="/dragon" element={<Dragon />} />
-          <Route path="/starship" element={<StarShip />} />
-          <Route path="/human-spaceflight" element={<HumanSpaceflight />} />
-          <Route path="/rideshare" element={<Rideshare />} />
-          <Route path="/starlink" element={<Starlink />} />
-          <Route path="/shop" element={<Shop />} />
+          {/* <Route exact path="/" element={<Explore />} />*/}
+          <Route path="/mission-to-mars-fe" element={<Explore />} />
+          <Route path="/mission-to-mars-fe/falcon9" element={<Falcon9 />} />
+          <Route path="/mission-to-mars-fe/falcon-heavy" element={<FalconHeavy />} />
+          <Route path="/mission-to-mars-fe/dragon" element={<Dragon />} />
+          <Route path="/mission-to-mars-fe/starship" element={<StarShip />} />
+          <Route path="/mission-to-mars-fe/human-spaceflight" element={<HumanSpaceflight />} />
+          <Route path="/mission-to-mars-fe/rideshare" element={<Rideshare />} />
+          <Route path="/mission-to-mars-fe/starlink" element={<Starlink />} />
+          <Route path="/mission-to-mars-fe/shop" element={<Shop />} />
         </Routes>
         <Footer />
       </Router>

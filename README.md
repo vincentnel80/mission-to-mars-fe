@@ -5,7 +5,7 @@
 <div align="center">
   <h3 align="center">Mission to Mars</h3>
   <p align="center">
-    A responsive website template inspired by SpaceX's current site.
+    A responsive React.js website template inspired by SpaceX's current site.
     <br />
     <br />
     <a href="https://vincentnel80.github.io/mission-to-mars-fe/">View Demo</a>
@@ -33,17 +33,14 @@
 [![Product Name Screen Shot][product-screenshot]](https://vincentnel80.github.io/mission-to-mars-fe/)
 
 This project was built with React.js\
-It is not the entire website, but the homepage, a few inner pages with the CSS animations, mobile menu and the JavaScript countdown effect.
+The website contains a homepage, a few inner pages with CSS animations, a mobile menu and JavaScript countdown effects
 
 <p align="right">(<a href="#top">back to top</a>)</p>
 
 # Getting Started 
 
-Clone the project and in the project directory run:
+Clone the project and in the root project directory run:
 
-## Available Scripts
-
-In the project directory, you can run:
 ### `npm install`
 
 ### `npm start`
@@ -55,6 +52,7 @@ Open [http://localhost:3000](http://localhost:3000) to view it in your browser.
 
 ### Built With
 
+* [![React][React]][React-url]
 * [![JavaScript][JavaScript]][JavaScript-url]
 * [![Html5][Html5]][Html5-url]
 * [![Css3][Css3]][Css3-url]
@@ -62,7 +60,9 @@ Open [http://localhost:3000](http://localhost:3000) to view it in your browser.
 <p align="right">(<a href="#top">back to top</a>)</p>
 
 <!-- MARKDOWN LINKS & IMAGES -->
-[product-screenshot]: img/screen.jpg
+[product-screenshot]: src/img/screen.jpg
+[React]: https://img.shields.io/badge/react-000000?style=for-the-badge&logo=react&logoColor=white
+[React-url]: https://reactjs.org/
 [JavaScript]: https://img.shields.io/badge/javascript-000000?style=for-the-badge&logo=javascript&logoColor=white
 [JavaScript-url]: https://developer.mozilla.org/en-US/docs/Web/JavaScript
 [Html5]: https://img.shields.io/badge/html5-ff8717?style=for-the-badge&logo=html5&logoColor=white
