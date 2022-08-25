@@ -4,16 +4,16 @@ import { fallDown as Menu } from "react-burger-menu";
 const Sidebar = () => {
   return (
     <Menu right>
-      <a className="mobile-only" href="/mission-to-mars-fe/">
+      <a className="mobile-only" href="/">
         Home
       </a>
-      <a className="mobile-only" href="/mission-to-mars-fe/Falcon9">
+      <a className="mobile-only" href="/Falcon9">
         Falcon 9
       </a>
-      <a className="mobile-only" href="/mission-to-mars-fe/falcon-heavy">
+      <a className="mobile-only" href="/falcon-heavy">
         Falcon Heavy
       </a>
-      <a className="mobile-only" href="/mission-to-mars-fe/dragon">
+      <a className="mobile-only" href="/dragon">
         Dragon
       </a>
       {/* <a className="mobile-only" href="#">
