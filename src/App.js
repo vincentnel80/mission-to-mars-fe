@@ -17,9 +17,9 @@ function App() {
       <Router>
         <Header />
         <Routes>
-          <Route path="/" element={<Explore />} />
-          <Route path="/falcon9" element={<Falcon9 />} />
-          <Route path="/falcon-heavy" element={<FalconHeavy />} />
+          <Route exact path="/" element={<Explore />} />
+          <Route exact path="/falcon9" element={<Falcon9 />} />
+          <Route exact path="/falcon-heavy" element={<FalconHeavy />} />
           <Route path="/dragon" element={<Dragon />} />
           <Route path="/starship" element={<StarShip />} />
           <Route path="/human-spaceflight" element={<HumanSpaceflight />} />
