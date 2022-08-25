@@ -1,5 +1,5 @@
 import { fallDown as Menu } from "react-burger-menu";
-import "./Sidebar.css";
+//import "./Sidebar.css";
 
 const Sidebar = () => {
   return (
