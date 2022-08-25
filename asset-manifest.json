@@ -1,7 +1,7 @@
 {
   "files": {
     "main.css": "/mission-to-mars-fe/static/css/main.7730bc49.css",
-    "main.js": "/mission-to-mars-fe/static/js/main.7f9fef81.js",
+    "main.js": "/mission-to-mars-fe/static/js/main.200eeb9a.js",
     "static/js/787.4d0bd408.chunk.js": "/mission-to-mars-fe/static/js/787.4d0bd408.chunk.js",
     "static/media/falcon-heavy.webp": "/mission-to-mars-fe/static/media/falcon-heavy.c1cf29d6314c44c66c74.webp",
     "static/media/falcon-9.webp": "/mission-to-mars-fe/static/media/falcon-9.0f46fac31c34a50fea6a.webp",
@@ -15,11 +15,11 @@
     "static/media/section-b.webp": "/mission-to-mars-fe/static/media/section-b.3fd9e46ee6e4371f430d.webp",
     "index.html": "/mission-to-mars-fe/index.html",
     "main.7730bc49.css.map": "/mission-to-mars-fe/static/css/main.7730bc49.css.map",
-    "main.7f9fef81.js.map": "/mission-to-mars-fe/static/js/main.7f9fef81.js.map",
+    "main.200eeb9a.js.map": "/mission-to-mars-fe/static/js/main.200eeb9a.js.map",
     "787.4d0bd408.chunk.js.map": "/mission-to-mars-fe/static/js/787.4d0bd408.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.7730bc49.css",
-    "static/js/main.7f9fef81.js"
+    "static/js/main.200eeb9a.js"
   ]
 }
