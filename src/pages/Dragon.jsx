@@ -5,7 +5,7 @@ function Dragon() {
     <>
       <section className="section-animate bg-dragon"></section>
       <div className="section-inner-center">
-        <h3>Falcon Heavy</h3>
+        <h3>Dragon</h3>
         <p>Sending humans and cargo into space.</p>
       </div>
       <StatCounter />
